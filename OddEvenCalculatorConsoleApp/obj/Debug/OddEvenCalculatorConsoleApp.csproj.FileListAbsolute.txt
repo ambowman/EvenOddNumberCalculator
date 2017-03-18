@@ -1,0 +1,12 @@
+c:\Dev\Projects\OddEvenCalculatorConsoleApp\OddEvenCalculatorConsoleApp\bin\Debug\OddEvenCalculatorConsoleApp.exe.config
+c:\Dev\Projects\OddEvenCalculatorConsoleApp\OddEvenCalculatorConsoleApp\bin\Debug\OddEvenCalculatorConsoleApp.exe
+c:\Dev\Projects\OddEvenCalculatorConsoleApp\OddEvenCalculatorConsoleApp\bin\Debug\OddEvenCalculatorConsoleApp.pdb
+c:\Dev\Projects\OddEvenCalculatorConsoleApp\OddEvenCalculatorConsoleApp\obj\Debug\OddEvenCalculatorConsoleApp.csprojResolveAssemblyReference.cache
+c:\Dev\Projects\OddEvenCalculatorConsoleApp\OddEvenCalculatorConsoleApp\obj\Debug\OddEvenCalculatorConsoleApp.exe
+c:\Dev\Projects\OddEvenCalculatorConsoleApp\OddEvenCalculatorConsoleApp\obj\Debug\OddEvenCalculatorConsoleApp.pdb
+C:\Dev\Projects\OddEvenNumberCalculator\OddEvenCalculatorConsoleApp\bin\Debug\OddEvenCalculatorConsoleApp.exe.config
+C:\Dev\Projects\OddEvenNumberCalculator\OddEvenCalculatorConsoleApp\bin\Debug\OddEvenCalculatorConsoleApp.exe
+C:\Dev\Projects\OddEvenNumberCalculator\OddEvenCalculatorConsoleApp\bin\Debug\OddEvenCalculatorConsoleApp.pdb
+C:\Dev\Projects\OddEvenNumberCalculator\OddEvenCalculatorConsoleApp\obj\Debug\OddEvenCalculatorConsoleApp.csprojResolveAssemblyReference.cache
+C:\Dev\Projects\OddEvenNumberCalculator\OddEvenCalculatorConsoleApp\obj\Debug\OddEvenCalculatorConsoleApp.exe
+C:\Dev\Projects\OddEvenNumberCalculator\OddEvenCalculatorConsoleApp\obj\Debug\OddEvenCalculatorConsoleApp.pdb
